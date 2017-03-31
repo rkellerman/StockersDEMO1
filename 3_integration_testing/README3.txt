@@ -4,7 +4,7 @@
 
 To run the integration tests, you must have downloaded all the files into android
 studio as the variables that we are testing are integrated within the different
-java classes. 
+java classes. ----
 
 When you run the application, the terminal in Android Studio will print the success 
 or failure of the integrated tests.
